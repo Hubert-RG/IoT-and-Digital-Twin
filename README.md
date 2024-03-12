@@ -2,6 +2,10 @@
 
 Welcome to the IoT and Digital Twin Research Lab's GitHub repository. Our lab is dedicated to pioneering research and development in the Internet of Things (IoT) and Digital Twins (DTs), focusing on the symbiosis of physical and digital realms to drive innovation across various domains. We aim to leverage the transformative potential of IoT and DTs to shape the future of digital transformation.
 
+
+![IoT Project Diagram](/images/DALL·E 2024-03-12 11.55.48 - A modern, state-of-the-art research lab dedicated to IoT (Internet of Things) and Digital Twin technologies. The lab is filled with advanced computing.jpg)
+
+
 ## Mission
 
 Our mission is to explore the intersection of IoT and DTs to develop robust technologies that enhance decision-making, improve efficiency, and foster innovation. We collaborate on developing innovative solutions and publish scientific findings to advance the field, targeting the seamless integration of digital twins in everyday processes and industries.
