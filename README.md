@@ -20,13 +20,14 @@ Our mission is to explore the intersection of IoT and DTs to develop robust tech
 - **Global IoT/DT Ecosystem:** Drive global adoption of DTs to improve efficiency and quality of life.
 - **Innovation Hub:** Become a leading center for IoT and DT innovation and collaboration.
 
-## Roadmap
+| Phase | Timeline | Objectives |
+|-------|----------|------------|
+| Q1-Q2 | Immediate | - Develop scalable, secure IoT architectures for real-time data collection and processing.<br>- Begin foundational IoT projects focusing on sensor integration and data acquisition. |
+| Q3-Q4 | Immediate | - Prototype digital twins in key industries, like manufacturing and healthcare.<br>- Develop initial digital twin prototypes for simulation and optimization. |
+| Year 2 | Medium-term | - Expand research into AI/ML algorithms for predictive analytics within digital twins.<br>- Enhance DT capabilities using AI/ML, AR/VR, and blockchain technologies. |
+| Year 3 | Medium to Long-term | - Collaborate on international projects for global supply chain and smart city applications.<br>- Participate in international DT projects for supply chains and smart cities. |
+| Year 4 and Beyond | Long-term | - Lead standardization efforts and ethical discussions around IoT and DTs.<br>- Become a leading center for IoT and DT innovation and collaboration. |
 
-1. **Q1-Q2:** Initiate IoT projects for sensor integration and data acquisition.
-2. **Q3-Q4:** Prototype digital twins in industries like manufacturing and healthcare.
-3. **Year 2:** Research AI/ML for predictive analytics within digital twins.
-4. **Year 3:** Participate in international DT projects for supply chains and smart cities.
-5. **Year 4 and Beyond:** Lead in standardization and ethical guidelines for IoT and DTs.
 
 ## Workshop Sessions
 
