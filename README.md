@@ -41,8 +41,4 @@ Our mission is to explore the intersection of IoT and DTs to develop robust tech
 
 This repository is where we collaborate on these initiatives, sharing our progress, innovations, and scientific findings with the community.
 
-## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
